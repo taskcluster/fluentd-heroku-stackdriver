@@ -1,1 +1,1 @@
-fluent: bundle exec fluentd -c /app/conf/fluentd.conf
+fluent: bundle exec fluentd -c /app/conf/fluent.conf

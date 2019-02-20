@@ -1,1 +1,1 @@
-fluent: bundle exec fluentd -c /app/conf/fluent.conf
+fluent: startup.sh

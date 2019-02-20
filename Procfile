@@ -1,1 +1,1 @@
-fluent: startup.sh
+fluent: /app/startup.sh

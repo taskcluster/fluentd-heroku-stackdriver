@@ -1,1 +1,1 @@
-fluent: /app/startup.sh
+web: /app/startup.sh

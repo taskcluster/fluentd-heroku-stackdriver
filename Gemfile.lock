@@ -9,8 +9,6 @@ GEM
     dig_rb (1.0.1)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
-    fluent-plugin-detect-exceptions (0.0.12)
-      fluentd (>= 0.10)
     fluent-plugin-google-cloud (0.7.5)
       fluentd (= 1.2.5)
       google-api-client (= 0.23.9)
@@ -116,7 +114,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  fluent-plugin-detect-exceptions (~> 0.0.12)
   fluent-plugin-google-cloud (~> 0.7)
   fluent-plugin-heroku-syslog-http (~> 0.2.0)
   fluentd (~> 1.2)
